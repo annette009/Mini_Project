@@ -126,7 +126,3 @@ node server.js
 > Make sure MongoDB is running locally or configure a connection string in your `.env` file.
 
 ---
-
-## 📄 License
-
-This project is for educational purposes as part of an academic portfolio.
